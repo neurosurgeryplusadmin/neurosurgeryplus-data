@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-03T13:15:02.966Z",
+  "updatedAt": "2026-10-05T19:29:32.978Z",
   "events": [
     {
       "id": "wfns-2027-world-congress",
@@ -1595,6 +1595,20 @@
       "sourceCategory": "Course company",
       "sourceWebsite": "https://www.mistakeonthelake.it",
       "notes": "A course on complications in skull base, spine, vascular and oncological neurosurgery. Course directors: Daniele Bongetta, Andrea Cardia, Davide Milani, Cesare Zoia. Held at the Swiss Aula Magna USI (Campus Ovest), Via Giuseppe Buffi 13, 6900 Lugano; programme of special lectures and spine, skull base, neuro-oncology and neurovascular sessions. Registration: https://www.mistakeonthelake.it/registration-2027/"
+    },
+    {
+      "id": "formedika-mapping-course-bellvitge-2026",
+      "name": "9th Mapping Course: Neurosurgery Course Bellvitge 2026",
+      "eventType": "Cadaver-dissection lab",
+      "startDate": "2026-11-17",
+      "endDate": "2026-11-20",
+      "country": "Spain",
+      "subspecialty": "Neuro-oncology, Functional/movement disorders",
+      "location": "Hospital Universitari de Bellvitge, Carrer de la Feixa Llarga, L'Hospitalet de Llobregat (Barcelona), Spain",
+      "sourceName": "Formedika (Donostia-San Sebastián)",
+      "sourceCategory": "Course company",
+      "sourceWebsite": "https://www.formedika.com/en/education/agenda/event/988-9th-mapping-course-neurosurgery-course-bellvitge-2026",
+      "notes": "Hands-on brain mapping course: cadaver dissection, neuroimaging analysis, theory and live surgeries. For neurosurgeons, neurologists, neurophysiologists, neuroradiologists, neuropsychologists and anesthetists. Starts 17 Nov at 14:30, ends 20 Nov at 15:00. Organized by Formedika; hosted by Hospital Universitari de Bellvitge. Course director: Andreu Gabarrós. Co-directors: Alejandro Fernández-Coello, Isabel Fernández-Conejero, Gerard Plans."
     }
   ]
 }

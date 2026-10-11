@@ -1,4 +1,16 @@
 {
-  "updatedAt": "2026-10-07T21:37:11Z",
-  "papers": []
+  "updatedAt": "2026-10-11T08:01:33Z",
+  "papers": [
+    {
+      "doi": "10.1001/jamaoncol.2026.2054",
+      "pinnedAt": "2026-10-11",
+      "days": 14,
+      "label": "Editor's choice",
+      "tags": [
+        "Neuroendoscopy",
+        "Skull base surgery",
+        "Neuro-oncology"
+      ]
+    }
+  ]
 }

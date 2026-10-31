@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-05T19:29:32.978Z",
+  "updatedAt": "2026-10-31T18:40:55.118Z",
   "events": [
     {
       "id": "wfns-2027-world-congress",
@@ -1548,11 +1548,11 @@
       "endDate": "2026-11-21",
       "country": "Italy",
       "subspecialty": "Skull base surgery, Pediatric neurosurgery, Neuroendoscopy",
-      "location": "Meyer Children's Hospital IRCCS (Meyer Health Campus), Florence, Italy",
+      "location": "Meyer Children's Hospital IRCCS (Meyer Health Campus), Via Cosimo il Vecchio 26, Florence, Italy",
       "sourceName": "Meyer Health Campus (Florence)",
       "sourceCategory": "Hospital",
       "sourceWebsite": "https://campus.meyer.it/corso/endoscopic-skullbase-surgery-in-children-19-21-november-2026/#infoCorso",
-      "notes": "Lecture-based congress with round tables (lectures and discussions in English; 100 participants) plus a hands-on pre-congress course on 19 Nov (simulation of the endoscopic endonasal approach on 3D-printed models of paediatric sellar tumours; mainly for neurosurgery, ENT and maxillofacial residents working in pairs; only the first 8 participants; €180). Scientific lead Lorenzo Genitori; scientific committee: Lorenzo Genitori, Mirko Scagnet, Federico Mussa, Filippo Giovannetti, Rina Agushi, Luca Spirito. Fees per the official poster: early bird until 15/09/2026 (passed) €150 members / €180 non-members (€130 residents, students, pediatricians); full fee €250 members / €280 non-members. Info and registration: ufficioformazione@meyer.it, 055 5662812. The poster shows a 'Call for abstracts' badge but no separate abstract deadline; its 15/09/2026 date belongs to the early-bird rate."
+      "notes": "Lecture-based congress with round tables (lectures and discussions in English; 100 participants) plus a hands-on pre-congress course on 19 Nov (simulation of the endoscopic endonasal approach on 3D-printed models of paediatric sellar tumours; mainly for neurosurgery, ENT and maxillofacial residents working in pairs; only the first 8 participants; €180). Scientific lead Lorenzo Genitori; scientific committee: Lorenzo Genitori, Mirko Scagnet, Federico Mussa, Filippo Giovannetti, Rina Agushi, Luca Spirito. Fees per the official poster: early bird until 15/09/2026 (passed) €150 members / €180 non-members (€130 residents, students, pediatricians); full fee €250 members / €280 non-members. Info and registration: ufficioformazione@meyer.it, 055 5662812. The poster shows a 'Call for abstracts' badge but no separate abstract deadline; its 15/09/2026 date belongs to the early-bird rate. Endorsed by the Italian Skull Base Society (SIB): listed among its 'Eventi Patrocinati SIB' (https://societabasicranio.it/blog/endoscopic-skullbase-surgery-in-children.html)."
     },
     {
       "id": "espn-30th-congress-2027",
@@ -1609,6 +1609,118 @@
       "sourceCategory": "Course company",
       "sourceWebsite": "https://www.formedika.com/en/education/agenda/event/988-9th-mapping-course-neurosurgery-course-bellvitge-2026",
       "notes": "Hands-on brain mapping course: cadaver dissection, neuroimaging analysis, theory and live surgeries. For neurosurgeons, neurologists, neurophysiologists, neuroradiologists, neuropsychologists and anesthetists. Starts 17 Nov at 14:30, ends 20 Nov at 15:00. Organized by Formedika; hosted by Hospital Universitari de Bellvitge. Course director: Andreu Gabarrós. Co-directors: Alejandro Fernández-Coello, Isabel Fernández-Conejero, Gerard Plans."
+    },
+    {
+      "id": "sib-webinar-4-far-lateral-2026",
+      "name": "SIB Webinar 4/2026: Far lateral approach",
+      "eventType": "Webinar",
+      "startDate": "2026-11-04",
+      "endDate": "2026-11-04",
+      "country": "Italy",
+      "subspecialty": "Skull base surgery, Vascular neurosurgery",
+      "location": "Online",
+      "sourceName": "Italian Skull Base Society (SIB)",
+      "sourceCategory": "Subspecialty",
+      "sourceWebsite": "https://societabasicranio.it/blog/4-webinar-4-novembre-2026-19-00-20-00-approccio-far-lateral.html",
+      "notes": "Online webinar in Italian, 19:00–20:00 Italian time (\"4° Webinar 2026 – Approccio far lateral\"). Speakers: M. G. de Notaris (anatomy), A. Albanese (vascular applications), G. Spena (oncological applications). Moderator: G. Grimod. Programme: https://societabasicranio.it/altreimg/Programma_webinar_4.pdf"
+    },
+    {
+      "id": "sib-webinar-5-rescue-interventional-neuroradiology-2026",
+      "name": "SIB Webinar 5/2026: Interventional neuroradiology rescue treatments in skull base surgery",
+      "eventType": "Webinar",
+      "startDate": "2026-11-16",
+      "endDate": "2026-11-16",
+      "country": "Italy",
+      "subspecialty": "Skull base surgery, Interventional Neuroradiology & Stroke",
+      "location": "Online",
+      "sourceName": "Italian Skull Base Society (SIB)",
+      "sourceCategory": "Subspecialty",
+      "sourceWebsite": "https://societabasicranio.it/blog/5-webinar-2026-trattamenti-rescue-di-neuroradiologia-interventistica-nella-chirurgia-del-basicranio.html",
+      "notes": "Online webinar in Italian, 17:00–18:00 Italian time (\"5° Webinar 2026 – Trattamenti rescue di neuroradiologia interventistica nella chirurgia del basicranio\"). Speaker: L. Valvassori Bolgè. Moderator: R. Arpesani. Programme: https://societabasicranio.it/altreimg/5WebinarSIBdel16-11-2026.pdf"
+    },
+    {
+      "id": "sib-webinar-6-pediatric-craniopharyngiomas-2026",
+      "name": "SIB Webinar 6/2026: Management of craniopharyngiomas in paediatric patients",
+      "eventType": "Webinar",
+      "startDate": "2026-12-03",
+      "endDate": "2026-12-03",
+      "country": "Italy",
+      "subspecialty": "Skull base surgery, Pediatric neurosurgery",
+      "location": "Online",
+      "sourceName": "Italian Skull Base Society (SIB)",
+      "sourceCategory": "Subspecialty",
+      "sourceWebsite": "https://societabasicranio.it/blog/6-webinar-management-dei-craniofaringiomi-nei-pazienti-pediatrici.html",
+      "notes": "Online webinar in Italian, 21:00–22:00 Italian time (\"6° Webinar 2026 – Management dei craniofaringiomi nei pazienti pediatrici\"). Speaker: M. Scagnet. Moderator: F. Giovannetti. Programme: https://societabasicranio.it/altreimg/6webinarSIBdel03-12-2026-2.pdf"
+    },
+    {
+      "id": "nasbs-webinar-pediatric-craniopharyngioma-2026",
+      "name": "NASBS Webinar: Multidisciplinary Management of Pediatric Craniopharyngioma",
+      "eventType": "Webinar",
+      "startDate": "2026-11-19",
+      "endDate": "2026-11-19",
+      "country": "United States",
+      "subspecialty": "Skull base surgery, Pediatric neurosurgery",
+      "location": "Online",
+      "sourceName": "North American Skull Base Society (NASBS)",
+      "sourceCategory": "Subspecialty",
+      "sourceWebsite": "https://www.nasbs.org/nasbs-upcoming-webinars/",
+      "notes": "Online (Zoom), 19 November 2026 at 8:00 pm EST, as listed by NASBS (that is 20 November, 02:00 Italian time). Free. Registration through the Zoom link on the NASBS webinars page."
+    },
+    {
+      "id": "etos-7th-transorbital-workshop-barcelona-2026",
+      "name": "7th International Workshop: Endoscopic Transorbital Skull Base Surgery + 3rd Annual International Congress of ETOS",
+      "eventType": "Cadaver-dissection lab",
+      "startDate": "2026-11-12",
+      "endDate": "2026-11-13",
+      "country": "Spain",
+      "subspecialty": "Skull base surgery",
+      "location": "Barcelona, Spain",
+      "sourceName": "Endoscopic TransOrbital Society (ETOS)",
+      "sourceCategory": "International",
+      "sourceWebsite": "https://www.endo-orbit.com/courses/7th-international-workshop-endoscopic-transorbital-skull-base-surgery-3rd-annual-international-congress-of-the-endoscopic-transorbital-society-etos-barcelona-spain-november-12-13-2026",
+      "notes": "12 November: lecture day (3rd Annual International Congress of ETOS). 13 November: cadaver dissection course. Venue not stated. Directors: J. Enseñat, A. Di Somma, I. Alobid, A. Prats. Fees: full course (lectures and dissection) €2,500, dissection only €2,000, lectures only €500; the full course includes one year of ETOS membership; €100 discount for active ETOS members. Registration: https://aventik.es/3aicets"
+    },
+    {
+      "id": "iclo-crescendo-transnasal-transorbital-2027",
+      "name": "CrescEndo: Endoscopic Transnasal and Transorbital Approaches – hybrid psychomotor skills training course (6th edition)",
+      "eventType": "Cadaver-dissection lab",
+      "startDate": "2027-03-13",
+      "endDate": "2027-03-15",
+      "country": "Italy",
+      "subspecialty": "Skull base surgery",
+      "location": "ICLO Teaching and Research Center, Via E. Torricelli 15/A, Verona, Italy",
+      "sourceName": "ICLO Teaching and Research Center (Verona)",
+      "sourceCategory": "Course company",
+      "sourceWebsite": "https://societabasicranio.it/blog/endoscopic-transnasal-and-transorbital-approaches.html",
+      "notes": "Hybrid psychomotor skills training: cadaver dissection plus simulators (UpSurgeOn, VR). Starts 13 March at 10:30. Organized by ICLO Teaching and Research Center; endorsed by the Italian Skull Base Society (SIB). Directors: F. Doglietto, F. Pagella, M. Rigante, C. Zoia. Fees: €1,400 all-inclusive (SIB members €1,260); €1,200 without hotel; observer €700 (3 days) or €250 (1 day). Scientific programme: https://societabasicranio.it/altreimg/ProgrammaScientifico_2027_3_13-15.pdf"
+    },
+    {
+      "id": "anatomx-csf-leaks-masterclass-2-0-2027",
+      "name": "Advanced Hands-On Masterclass 2.0 on CSF Leaks and Endoscopic Skull Base Reconstruction",
+      "eventType": "Cadaver-dissection lab",
+      "startDate": "2027-03-22",
+      "endDate": "2027-03-24",
+      "country": "Italy",
+      "subspecialty": "Skull base surgery",
+      "location": "AnatomX by IRCCS MultiMedica, Via Gaudenzio Fantoli 16/15, Milan, Italy",
+      "sourceName": "AnatomX by IRCCS MultiMedica (Milan)",
+      "sourceCategory": "Course company",
+      "sourceWebsite": "https://anatomx.com/prodotto/advanced-hands-on-masterclass-2-0/",
+      "notes": "Hands-on cadaver course using a perfused cadaver model that simulates CSF leaks. Organized by AnatomX and Hinovia. Directors: A. Karligkiotis, N. Boari, A. AlQahtani. Honorary presidents: P. Castelnuovo, P. Mortini. CME: 40.4 Italian ECM credits (neurosurgery, maxillofacial surgery, otorhinolaryngology), per the course page. Fees: specialists €1,850; reduced €1,650 for members of GOS, SIB, SIO, IAR and ERS; observer €500; lecture-only options from €70 to €150."
+    },
+    {
+      "id": "acin-white-matter-dissection-course-2026",
+      "name": "White Matter Dissection Practical Course (Curso práctico de disección de sustancia blanca) 2026",
+      "eventType": "Cadaver-dissection lab",
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-08",
+      "country": "Costa Rica",
+      "subspecialty": "Neuro-oncology, Functional/movement disorders",
+      "location": "Laboratorio de Técnicas Quirúrgicas Avanzadas, Universidad Santa Paula, Costa Rica",
+      "sourceName": "Costa Rican Association of Neurosurgery (ACIN)",
+      "sourceCategory": "National",
+      "sourceWebsite": "https://www.facebook.com/AsociacionNeurocirugiaCostaRica/posts/nos-complace-invitarles-a-participar-en-la-cuarta-edici%C3%B3n-de-curso-hands-on-de-d/1071049905788404/",
+      "notes": "Hands-on white matter dissection course in Spanish; the association's post calls it the 4th edition. Organized by the Asociación Costarricense de Neurocirugía (ACIN; Costa Rican Association of Neurosurgery) with Universidad Santa Paula and Yo Humano. Guest faculty: J. Alvernia-Silva, L. R. Rodríguez Rubio, V. Vigo. Coordinator: Y. Hsieh Tze Yu (Hospital México). Fee: US$700. Contact: amiranda@usantapaula.com (Dr. Andrés Miranda Guevara)."
     }
   ]
 }

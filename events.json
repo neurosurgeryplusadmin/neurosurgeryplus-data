@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-31T18:55:28.857Z",
+  "updatedAt": "2026-11-03T17:05:26.559Z",
   "events": [
     {
       "id": "wfns-2027-world-congress",
@@ -2138,6 +2138,20 @@
       "sourceCategory": "National",
       "sourceWebsite": "https://dgnc.de/fileadmin/media-gesellschaft/docs/Aktuelles/Kalender/2026/Udine_2026_Flyer.pdf",
       "notes": "Source: the 2026 flyer hosted on the DGNC site (listed in the DGNC congress calendar); no organizer page was found. Course director: Dott. Angelo Tortora (Department of Neurosurgery, Udine); Dott. Marco Vindigni, Head of Neurosurgery Udine. Faculty: S. D'Auria, F. Marotta, M. Mondani, D. Piccolo, G. Sciacca, B. Skrap, G. Toniato, F. Tuniz. Honored guests: Prof. H.-J. Steiger (Switzerland), Prof. Peter A. Winkler (Germany). Programme 10–13 December: lectures on each approach followed by hands-on laboratory sessions (orbito-craniotomy, pterional, anterior clinoidectomy and cavernous sinus, subtemporal and anterior petrosectomy, STA-M4 bypass, telovelar and supracerebellar, transcallosal, retrosigmoid, far lateral, presigmoid, carotid bifurcation); the flyer does not say whether cadavers are used. Fee: €1,900. Contact and registration: corsi.neurochirurgia@asufc.sanita.fvg.it"
+    },
+    {
+      "id": "orlando-flexible-ventricular-neuroendoscopy-workshop-2027",
+      "name": "The Third Flexible Ventricular Neuroendoscopy Live Surgery and Hands-On Workshop for Neurosurgeons",
+      "eventType": "Course-Workshop",
+      "startDate": "2027-01-21",
+      "endDate": "2027-01-23",
+      "country": "United States",
+      "subspecialty": "Neuroendoscopy, Pediatric neurosurgery",
+      "location": "Orlando Health Jewett Orthopedic Institute, Surgical Training and Education Center, 62 Columbia St., 7th Floor, Orlando, FL 32806, United States",
+      "sourceName": "Orlando Health Children's Neuroscience Institute",
+      "sourceCategory": "Hospital",
+      "sourceWebsite": "https://www.orlandohealth.com/services/childrens-neuroscience-institute/education/events",
+      "notes": "Three-day workshop on flexible ventricular neuroendoscopy for neurosurgeons, fellows and residents, supported by the Leon Pediatric Neuroscience Fund. Lectures and case discussions, a live surgery by the course director Samer K. Elbabaa, MD (chief of pediatric neurosurgery, Orlando Health Arnold Palmer Hospital for Children), and hands-on lab sessions with rigid and flexible endoscopes on anatomical models (no cadavers mentioned). Tracks and fees (registration page): Hands-on $1,195 (resident/fellow $995; limited places); Lecture only/live viewing, observer access to the lab, $750 (resident/fellow $550); Virtual $500 (resident/fellow $300). CME: the registration page says approved for AMA PRA Category 1 Credits; the events page says credits are being considered. Agenda coming soon. Registration: https://give.orlandohealth.com/event/the-third-flexible-ventricular-neuroendoscopy-live/e757518. Contact: ChildrensNeuroscienceEvents@OrlandoHealth.com"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-06T23:06:29.371Z",
+  "updatedAt": "2026-11-06T23:33:58.643Z",
   "events": [
     {
       "id": "wfns-2027-world-congress",
@@ -2418,6 +2418,34 @@
       "sourceCategory": "Course company",
       "sourceWebsite": "https://www.elsevier.com/events/conferences/all/international-brain-stimulation-conference",
       "notes": "Seventh edition of the conference of the journal Brain Stimulation, organised by Elsevier. Co-chairs: Charlotte Stagg and Marom Bikson. Covers brain stimulation technology and clinical advances (invasive and non-invasive), with an exhibition. Early registration discount until 4 December 2026. Symposia and abstracts are submitted through the conference site."
+    },
+    {
+      "id": "anocef-journee-educationnelle-2026",
+      "name": "15ème Journée Éducationnelle de l'ANOCEF \"Michel Poisson\"",
+      "eventType": "Course-Workshop",
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-13",
+      "country": "France",
+      "subspecialty": "Neuro-oncology",
+      "location": "Hôpital d'Instruction des Armées du Val-de-Grâce, 1 place Alphonse Laveran, 75005 Paris, France",
+      "sourceName": "Association of French-Speaking Neuro-Oncologists (ANOCEF)",
+      "sourceCategory": "Subspecialty",
+      "sourceWebsite": "https://www.anocef.org/",
+      "notes": "15th ANOCEF Educational Day \"Michel Poisson\" (the anocef.org banner reads \"15ème édition des Journées Éducationnelles de l'ANOCEF\"). Starts at 9:00 am. Provisional programme: https://www.anocef.org/download.php?modele=ANOCEF2026_JE2026_programme. Registration: https://www.anocef.org/rdl.php?idl=2483&midn=1"
+    },
+    {
+      "id": "anocef-congres-2027",
+      "name": "Congrès ANOCEF 2027",
+      "eventType": "Conference",
+      "startDate": "2027-06-11",
+      "endDate": "2027-06-12",
+      "country": "France",
+      "subspecialty": "Neuro-oncology",
+      "location": "Centre Universitaire Méditerranéen, Nice, France",
+      "sourceName": "Association of French-Speaking Neuro-Oncologists (ANOCEF)",
+      "sourceCategory": "Subspecialty",
+      "sourceWebsite": "https://www.anocef.org/",
+      "notes": "ANOCEF annual congress. Save the date on the anocef.org home page (\"Congrès ANOCEF 2027, 11 & 12 juin, Nice, Centre Universitaire Méditerranéen\")."
     }
   ]
 }

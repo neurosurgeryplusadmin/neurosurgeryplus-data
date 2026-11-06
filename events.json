@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-03T17:05:26.559Z",
+  "updatedAt": "2026-11-06T22:30:57.827Z",
   "events": [
     {
       "id": "wfns-2027-world-congress",
@@ -2152,6 +2152,20 @@
       "sourceCategory": "Hospital",
       "sourceWebsite": "https://www.orlandohealth.com/services/childrens-neuroscience-institute/education/events",
       "notes": "Three-day workshop on flexible ventricular neuroendoscopy for neurosurgeons, fellows and residents, supported by the Leon Pediatric Neuroscience Fund. Lectures and case discussions, a live surgery by the course director Samer K. Elbabaa, MD (chief of pediatric neurosurgery, Orlando Health Arnold Palmer Hospital for Children), and hands-on lab sessions with rigid and flexible endoscopes on anatomical models (no cadavers mentioned). Tracks and fees (registration page): Hands-on $1,195 (resident/fellow $995; limited places); Lecture only/live viewing, observer access to the lab, $750 (resident/fellow $550); Virtual $500 (resident/fellow $300). CME: the registration page says approved for AMA PRA Category 1 Credits; the events page says credits are being considered. Agenda coming soon. Registration: https://give.orlandohealth.com/event/the-third-flexible-ventricular-neuroendoscopy-live/e757518. Contact: ChildrensNeuroscienceEvents@OrlandoHealth.com"
+    },
+    {
+      "id": "nasbs-webinar-giant-pituitary-adenomas-2026",
+      "name": "One World Skull Base Series: Surgical Approach Selection and Management Considerations for Giant Pituitary Adenomas",
+      "eventType": "Webinar",
+      "startDate": "2026-12-07",
+      "endDate": "2026-12-07",
+      "country": "United States",
+      "subspecialty": "Skull base surgery, Neuro-oncology",
+      "location": "Online",
+      "sourceName": "North American Skull Base Society (NASBS)",
+      "sourceCategory": "Subspecialty",
+      "sourceWebsite": "https://www.nasbs.org/nasbs-upcoming-webinars/",
+      "notes": "Online (Zoom), 7 December 2026 at 5:00 pm EST, as listed by NASBS (that is 23:00 Italian time the same day). The NASBS page lists the title without the series name; the Zoom registration page calls it \"One World Skull Base: …\". No fee shown on the registration form. Registration: https://us06web.zoom.us/webinar/register/WN_LauQj3qQQPGasorgjR0jUA#/registration"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-07T16:29:13.329Z",
+  "updatedAt": "2026-11-07T20:26:50.731Z",
   "events": [
     {
       "id": "wfns-2027-world-congress",
@@ -1539,6 +1539,7 @@
       "eventType": "Conference",
       "startDate": "2027-05-23",
       "endDate": "2027-05-26",
+      "abstractDeadline": "2026-12-15",
       "country": "Austria",
       "subspecialty": "Pediatric neurosurgery",
       "location": "Hotel Savoyen, Vienna, Austria",
@@ -2290,13 +2291,14 @@
       "eventType": "Conference",
       "startDate": "2027-03-24",
       "endDate": "2027-03-26",
+      "abstractDeadline": "2026-11-27",
       "country": "France",
       "subspecialty": null,
       "location": "Mégacité (Centre d'Exposition et de Congrès d'Amiens Métropole), 101 Avenue de l'Hippodrome, 80000 Amiens, France",
       "sourceName": "French Society of Neurosurgery (SFNC)",
       "sourceCategory": "National",
       "sourceWebsite": "https://sfneurochirurgie.fr/2-congres/appel-a-communication/",
-      "notes": "French Society of Neurosurgery annual congress. Fees, 3 days until 28 Feb 2027 / from 1 Mar 2027: SFNC member seniors €490 / €590; non-member seniors €690 / €790; CCA and assistants €210 / €310 (members), €290 / €390 (non-members); 1-day rates available. Residents: free for SFNC members, €50 for non-members; paramedical staff €50. Abstract submission open from 30 Sep 2026 until 10 Jan 2027. Organised with MCO Congrès (registration and programme: Vanina.Falleni@mcocongres.com). Registration: https://sfneurochirurgie.fr/2-congres/inscription/"
+      "notes": "French Society of Neurosurgery annual congress. Fees, 3 days until 28 Feb 2027 / from 1 Mar 2027: SFNC member seniors €490 / €590; non-member seniors €690 / €790; CCA and assistants €210 / €310 (members), €290 / €390 (non-members); 1-day rates available. Residents: free for SFNC members, €50 for non-members; paramedical staff €50. Abstract submission deadline: 27 Nov 2026. Organised with MCO Congrès (registration and programme: Vanina.Falleni@mcocongres.com). Registration: https://sfneurochirurgie.fr/2-congres/inscription/"
     },
     {
       "id": "sfncp-congres-2027",
@@ -3060,6 +3062,7 @@
       "eventType": "Conference",
       "startDate": "2027-04-02",
       "endDate": "2027-04-04",
+      "abstractDeadline": "2027-01-07",
       "country": "Australia",
       "subspecialty": "Spine surgery",
       "location": "Adelaide Convention Centre, Adelaide, Australia",
@@ -3158,6 +3161,7 @@
       "eventType": "Conference",
       "startDate": "2027-04-17",
       "endDate": "2027-04-18",
+      "abstractDeadline": "2026-11-16",
       "country": "Germany",
       "subspecialty": "Functional/movement disorders",
       "location": "Munich, Germany",
@@ -3970,13 +3974,14 @@
       "eventType": "Conference",
       "startDate": "2027-01-21",
       "endDate": "2027-01-22",
+      "abstractDeadline": "2026-11-09",
       "country": "Japan",
       "subspecialty": "Epilepsy surgery",
       "location": "Toki Messe Niigata Convention Center, Niigata",
       "sourceName": "Japanese Society for Epilepsy Surgery",
       "sourceCategory": "Subspecialty",
       "sourceWebsite": "https://essj2027.jp/about.html",
-      "notes": "President: Ichiro Takumi (St. Marianna University School of Medicine). Theme: \"Refinement and Maturation of Epilepsy Surgery: Where Japan Stands\". Held just before the 66th JSSFN meeting at the same venue. Found through the JSSFN home page (the society website in the source list does not respond)."
+      "notes": "President: Ichiro Takumi (St. Marianna University School of Medicine). Theme: \"Refinement and Maturation of Epilepsy Surgery: Where Japan Stands\". Abstract deadline extended to 9 Nov 2026 (noon, Japan time). Held just before the 66th JSSFN meeting at the same venue. Found through the JSSFN home page (the society website in the source list does not respond)."
     },
     {
       "id": "jssfn-66th-annual-meeting-2027",
@@ -4054,6 +4059,7 @@
       "eventType": "Conference",
       "startDate": "2027-02-13",
       "endDate": "2027-02-13",
+      "abstractDeadline": "2026-12-01",
       "country": "Japan",
       "subspecialty": "Interventional Neuroradiology & Stroke",
       "location": "Sendai International Center, Aobayama, Aoba-ku, Sendai",

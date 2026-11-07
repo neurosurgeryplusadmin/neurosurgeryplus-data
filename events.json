@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-07T20:58:39.505Z",
+  "updatedAt": "2026-11-07T21:06:55.198Z",
   "events": [
     {
       "id": "wfns-2027-world-congress",
@@ -248,7 +248,7 @@
       "endDate": "2027-04-24",
       "country": "Brazil",
       "subspecialty": "Vascular neurosurgery, Interventional Neuroradiology & Stroke, Skull base surgery, Functional/movement disorders",
-      "location": "Curitiba, PR, Brazil",
+      "location": "Viasoft Experience, Universidade Positivo, Curitiba, PR, Brazil",
       "sourceName": "Brazilian Academy of Neurosurgery (ABNc)",
       "sourceCategory": "National",
       "sourceWebsite": "https://congressoabnc2027.com.br/",
@@ -703,7 +703,7 @@
       "endDate": "2027-03-27",
       "country": "South Korea",
       "subspecialty": "Vascular neurosurgery",
-      "location": null,
+      "location": "Paradise Hotel, Busan, South Korea",
       "sourceName": "Korean Society of CerebroVascular Surgery (KSCVS)",
       "sourceCategory": "Subspecialty",
       "sourceWebsite": "https://www.kscvs.org/kinbbs/index.kin?bbs_mode=view&f_wbcode=board_notice&f_master_idx=927"
@@ -742,7 +742,7 @@
       "endDate": "2026-12-18",
       "country": "South Korea",
       "subspecialty": "Neuroendoscopy",
-      "location": "Korea (Hanyang University Hospital)",
+      "location": "HIT Building, Hanyang University, South Korea",
       "sourceName": "Korean Society of Endoscopic Neurosurgery (KOSEN)",
       "sourceCategory": "Subspecialty",
       "sourceWebsite": "https://www.kosen.or.kr/workshop/monthly/view?idx=147"
@@ -4473,6 +4473,20 @@
       "sourceCategory": "Course company",
       "sourceWebsite": "https://www.esmint.eu/congress/",
       "notes": "Organiser: ESMINT (not in the source list); listed on the LINNC congresses page. For neuroradiologists, neurosurgeons and neurologists working in neurointervention."
+    },
+    {
+      "id": "barrow-spetzler-microneurosurgery-course-2027",
+      "name": "Spetzler Microneurosurgery Course 2027: Microneurosurgery of the Skull Base – Fundamentals, Approaches, Anatomy & Techniques",
+      "eventType": "Cadaver-dissection lab",
+      "startDate": "2027-01-07",
+      "endDate": "2027-01-08",
+      "country": "United States",
+      "subspecialty": "Skull base surgery, Vascular neurosurgery",
+      "location": "Loyal and Edith Davis Neurosurgery Research Laboratory, Barrow Neurological Institute, 350 West Thomas Road, Phoenix, AZ 85013, USA",
+      "sourceName": "Barrow Neurological Institute",
+      "sourceCategory": "Hospital",
+      "sourceWebsite": "https://www.barrowneuro.org/patient-care/support-resources/education-seminars/annual-spetzler-microneurosurgery-course/",
+      "notes": "Course director: Michael T. Lawton; special guest: Robert F. Spetzler. Two-day course for neurosurgery residents and fellows (60 participants): anterior cranial and skull base approaches (pterional, orbitozygomatic, transcavernous, Kawase, far lateral, CP angle) with cerebrovascular and tumour clinical correlation; dissection on preserved, vascular-injected cadaver specimens with image guidance. Fees: residents and fellows $400, non-trainees $2,500; no refunds. Contact: CME@barrowneuro.org."
     }
   ]
 }

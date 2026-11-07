@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-07T20:42:35.077Z",
+  "updatedAt": "2026-11-07T20:58:39.505Z",
   "events": [
     {
       "id": "wfns-2027-world-congress",
@@ -251,7 +251,7 @@
       "location": "Curitiba, PR, Brazil",
       "sourceName": "Brazilian Academy of Neurosurgery (ABNc)",
       "sourceCategory": "National",
-      "sourceWebsite": "https://www.abnc.org.br/",
+      "sourceWebsite": "https://congressoabnc2027.com.br/",
       "notes": "Also hosts the ABNc Vascular, Endovascular, Skull Base, and Functional Neurosurgery departments’ programming (Batch 4 research) — same physical event, not a separate one."
     },
     {
@@ -265,7 +265,7 @@
       "location": "Halifax, Nova Scotia, Canada",
       "sourceName": "Canadian Neurological Sciences Federation (CNSF)",
       "sourceCategory": "National",
-      "sourceWebsite": "https://www.cnsf.org/",
+      "sourceWebsite": "https://www.cnsf.org/congress/",
       "notes": "The Canadian Neurosurgical Society (CNSS) meets within this congress — no separate standalone CNSS event exists, so this one row covers both."
     },
     {
@@ -520,7 +520,7 @@
       "location": "Bern, Switzerland",
       "sourceName": "Swiss Society of Neurosurgery (SGNC/SSNC)",
       "sourceCategory": "National",
-      "sourceWebsite": "https://swissneurosurgery.ch"
+      "sourceWebsite": "https://www.swissneurosurgery.ch/agenda/sgnc-veranstaltungen/neurospine-meetings"
     },
     {
       "id": "tnd-epilepsy-surgery-course-2026",
@@ -693,7 +693,7 @@
       "location": "Konjiam Resort, Korea",
       "sourceName": "Korean Society of CerebroVascular Surgery (KSCVS)",
       "sourceCategory": "Subspecialty",
-      "sourceWebsite": "https://www.kscvs.org"
+      "sourceWebsite": "https://www.kscvs.org/kinbbs/index.kin?bbs_mode=view&f_wbcode=board_notice&f_master_idx=927"
     },
     {
       "id": "kscvs-40th-annual-meeting-2027",
@@ -706,7 +706,7 @@
       "location": null,
       "sourceName": "Korean Society of CerebroVascular Surgery (KSCVS)",
       "sourceCategory": "Subspecialty",
-      "sourceWebsite": "https://www.kscvs.org"
+      "sourceWebsite": "https://www.kscvs.org/kinbbs/index.kin?bbs_mode=view&f_wbcode=board_notice&f_master_idx=927"
     },
     {
       "id": "ksns-neurospine-congress-2026",
@@ -745,7 +745,7 @@
       "location": "Korea (Hanyang University Hospital)",
       "sourceName": "Korean Society of Endoscopic Neurosurgery (KOSEN)",
       "sourceCategory": "Subspecialty",
-      "sourceWebsite": "https://eng.kosen.or.kr"
+      "sourceWebsite": "https://www.kosen.or.kr/workshop/monthly/view?idx=147"
     },
     {
       "id": "snis-cvcsf-summit-2027",
@@ -771,7 +771,7 @@
       "location": "The Broadmoor, Colorado Springs, CO",
       "sourceName": "Society of NeuroInterventional Surgery (SNIS)",
       "sourceCategory": "Subspecialty",
-      "sourceWebsite": "https://snisonline.org"
+      "sourceWebsite": "https://snisonline.org/meetings/snis-24th-annual-meeting-and-fellows-course/"
     },
     {
       "id": "aanscns-tumors-webinar-2026-09",
@@ -986,7 +986,7 @@
       "location": "Hospital Universitario La Paz, Madrid",
       "sourceName": "Spanish Skull Base Society (SEBAC)",
       "sourceCategory": "Subspecialty",
-      "sourceWebsite": "https://sebac.es"
+      "sourceWebsite": "https://www.sebac.es/evento/i-reunion-de-socios-as-sebac-controversias-en-meningiomas-de-base-de-craneo/"
     },
     {
       "id": "geino-scientific-meeting-2026",
@@ -999,7 +999,7 @@
       "location": "ICOMEM, Madrid",
       "sourceName": "Spanish Neuro-Oncology Research Group (GEINO)",
       "sourceCategory": "Subspecialty",
-      "sourceWebsite": "https://geino.es"
+      "sourceWebsite": "https://geino.es/proximos-eventos/"
     },
     {
       "id": "jsscs-stroke-2027",
@@ -1012,7 +1012,7 @@
       "location": "Tokyo International Forum, Tokyo",
       "sourceName": "Japanese Society on Surgery for Cerebral Stroke",
       "sourceCategory": "Subspecialty",
-      "sourceWebsite": "https://congre.co.jp/stroke2027/"
+      "sourceWebsite": "https://www.congre.co.jp/stroke2027/"
     },
     {
       "id": "jsno-44th-annual-meeting-2026",
@@ -1104,7 +1104,7 @@
       "location": "Osaka, Japan",
       "sourceName": "Japanese Society for Pediatric Neurosurgery",
       "sourceCategory": "Subspecialty",
-      "sourceWebsite": "https://jspn2027.umin.jp",
+      "sourceWebsite": "https://jpn-spn.umin.jp/",
       "notes": "Reported as an \"optional bonus\" alongside the confirmed 55th meeting — imported since it has a fully confirmed date and venue."
     },
     {
@@ -1131,7 +1131,7 @@
       "location": "Dejima Messe Nagasaki, Nagasaki",
       "sourceName": "Japanese Society for Neuroendoscopy (JSNE)",
       "sourceCategory": "Subspecialty",
-      "sourceWebsite": "https://congre.co.jp/jsne33/"
+      "sourceWebsite": "https://www.congre.co.jp/jsne33/"
     },
     {
       "id": "neurovascon-2026",
@@ -1222,7 +1222,7 @@
       "location": "Phoenix, AZ",
       "sourceName": "Barrow Neurological Institute",
       "sourceCategory": "Hospital",
-      "sourceWebsite": "https://barrowneuro.org",
+      "sourceWebsite": "https://www.barrowneuro.org/for-physicians-researchers/take-action/find-a-conference-or-cme-course/",
       "notes": "Named “2026 Barrow Neuroscience Symposium” in the source despite running in May 2027."
     },
     {
@@ -1301,7 +1301,7 @@
       "location": "Hollywood, FL",
       "sourceName": "Cleveland Clinic",
       "sourceCategory": "Hospital",
-      "sourceWebsite": "https://clevelandclinic.org"
+      "sourceWebsite": "https://clevelandclinicmeded.com/live/courses/stroke"
     },
     {
       "id": "uclh-functional-neurosurgery-course-2026",
@@ -1328,7 +1328,7 @@
       "location": "Berlin, Germany",
       "sourceName": "Charité – Universitätsmedizin Berlin",
       "sourceCategory": "Hospital",
-      "sourceWebsite": "https://charite.de",
+      "sourceWebsite": "https://neuroanatomycourse.charite.de/",
       "notes": "Cadaver hands-on course, capped at 30 participants; registration was not yet open at research time."
     },
     {
@@ -1383,7 +1383,7 @@
       "location": "New Delhi, India",
       "sourceName": "All India Institute of Medical Sciences (AIIMS), New Delhi",
       "sourceCategory": "Hospital",
-      "sourceWebsite": "https://www.aiims.edu/",
+      "sourceWebsite": "https://www.acsst.in/Upcoming/UpcomingEvent",
       "notes": "General neuroanatomy training, not subspecialty-specific."
     },
     {
@@ -1462,7 +1462,7 @@
       "location": "New Delhi, India",
       "sourceName": "AIIMS Cadaveric Surgical Skill Training (ACSST)",
       "sourceCategory": "Course company",
-      "sourceWebsite": "https://www.acsst.in/"
+      "sourceWebsite": "https://www.acsst.in/Upcoming/UpcomingEvent"
     },
     {
       "id": "acsst-minimally-invasive-spine-workshop-2026",
@@ -1475,7 +1475,7 @@
       "location": "New Delhi, India",
       "sourceName": "AIIMS Cadaveric Surgical Skill Training (ACSST)",
       "sourceCategory": "Course company",
-      "sourceWebsite": "https://www.acsst.in/"
+      "sourceWebsite": "https://www.acsst.in/Upcoming/UpcomingEvent"
     },
     {
       "id": "eans-sah-guidelines-webinar-2026",
@@ -1904,7 +1904,7 @@
       "location": "New Delhi, India",
       "sourceName": "AIIMS Cadaveric Surgical Skill Training (ACSST)",
       "sourceCategory": "Course company",
-      "sourceWebsite": "https://www.acsst.in/",
+      "sourceWebsite": "https://www.acsst.in/Upcoming/UpcomingEvent",
       "notes": "Listed under the Department of Neurosurgery (Dr. Deepak Agrawal)."
     },
     {
@@ -1918,7 +1918,7 @@
       "location": "New Delhi, India",
       "sourceName": "AIIMS Cadaveric Surgical Skill Training (ACSST)",
       "sourceCategory": "Course company",
-      "sourceWebsite": "https://www.acsst.in/",
+      "sourceWebsite": "https://www.acsst.in/Upcoming/UpcomingEvent",
       "notes": "Listed under the Department of Neurosurgery (Dr. Deepak Agrawal)."
     },
     {
@@ -1932,7 +1932,7 @@
       "location": "New Delhi, India",
       "sourceName": "AIIMS Cadaveric Surgical Skill Training (ACSST)",
       "sourceCategory": "Course company",
-      "sourceWebsite": "https://www.acsst.in/",
+      "sourceWebsite": "https://www.acsst.in/Upcoming/UpcomingEvent",
       "notes": "Listed under the Department of Neurosurgery (Dr. Deepak Agrawal)."
     },
     {
@@ -1946,7 +1946,7 @@
       "location": "New Delhi, India",
       "sourceName": "AIIMS Cadaveric Surgical Skill Training (ACSST)",
       "sourceCategory": "Course company",
-      "sourceWebsite": "https://www.acsst.in/",
+      "sourceWebsite": "https://www.acsst.in/Upcoming/UpcomingEvent",
       "notes": "Run by the Department of Orthopaedics (Dr. Kamran Farooque)."
     },
     {
@@ -2479,7 +2479,7 @@
       "location": "Centro Congressi Molini Marzoli, Via Molino 2, 21052 Busto Arsizio (VA), Italy",
       "sourceName": "Italian Society of Neurosurgery (SINch)",
       "sourceCategory": "National",
-      "sourceWebsite": "https://www.aisap.it/",
+      "sourceWebsite": "https://www.aisap.it/event/convegno-aisap-busto-arsizio-varese/",
       "notes": "Original title: 18° Convegno Nazionale AISAP – Oltre i paradigmi storici: aggiornamenti e raccomandazioni sui disturbi della dinamica liquorale. Topics: spontaneous intracranial hypotension (SIH) and idiopathic intracranial hypertension (IIH). Scientific committee: Davide Boeris, Elisa Ciceri, Roberto De Simone, Simona Pantalone, Giuseppe Talamonti. Free registration. Listed on the SINch calendar."
     },
     {

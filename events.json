@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-07T20:26:50.731Z",
+  "updatedAt": "2026-11-07T20:42:35.077Z",
   "events": [
     {
       "id": "wfns-2027-world-congress",
@@ -4403,6 +4403,76 @@
       "sourceCategory": "Hospital",
       "sourceWebsite": "https://www.utsouthwestern.edu/departments/radiation-oncology/education-training/continued-education/gammaknife/",
       "notes": "Four-day course for new Gamma Knife users; hybrid (in person, or virtual with Zoom lectures and live-streamed patient observation). For radiation oncologists, neurosurgeons, neuro-otologists and medical physicists. No fee when covered by Elekta contract education credits. 2027 date from the UT Southwestern course page."
+    },
+    {
+      "id": "linnc-asia-2026-singapore",
+      "name": "LINNC Seminar 2026 – Asia Edition (10th anniversary)",
+      "eventType": "Conference",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-28",
+      "country": "Singapore",
+      "subspecialty": "Interventional Neuroradiology & Stroke",
+      "location": "National Museum of Singapore, Singapore",
+      "sourceName": "LINNC (Live Interventional NeuroRadiology & NeuroSurgery Course)",
+      "sourceCategory": "Course company",
+      "sourceWebsite": "https://www.linnc.com/Course-information/LINNC-Seminar-2026-Asia-Edition",
+      "notes": "Live and recorded interventional neuroradiology cases; registration, call for cases, e-posters and grants for young practitioners on the course page."
+    },
+    {
+      "id": "iclo-cranio-cervical-traumatology-course-2026",
+      "name": "6th Practical Course in Cranio-Cervical Traumatology",
+      "eventType": "Cadaver-dissection lab",
+      "startDate": "2026-12-09",
+      "endDate": "2026-12-11",
+      "country": "Italy",
+      "subspecialty": "Neurotrauma, Spine surgery, Skull base surgery",
+      "location": "ICLO Teaching and Research Center, Via E. Torricelli 15/A, Verona, Italy",
+      "sourceName": "ICLO Teaching and Research Center (Verona)",
+      "sourceCategory": "Course company",
+      "sourceWebsite": "https://www.iclo.eu/corsi/6-corso-pratico-di-traumatologia-cranio-cervicale/",
+      "notes": "Original title: 6° Corso Pratico di Traumatologia Cranio-Cervicale. Scientific leads: Laura Lippa, Angelo Pompucci. Hands-on in the dissection room: endoscopic endonasal approach (sellar region, planum), bifrontal craniotomy and galeal flap, frontal sinus cranialisation and skull base repair; C1–C2 (Harms) and lateral mass screws, expansive laminoplasty; anterior C2–C7 approaches, discectomy and cage. Online theory lectures. In Italian. Fee €600, SINch members €400 (includes 2 nights, dinner and materials). Limited places. Programme: https://www.dropbox.com/scl/fi/5khextptdrkpmnj4ijn3t/ProgrammaScientifico2026_12_9-10-11.pdf?rlkey=v491c7l13j2rh3looq51ldnot&raw=1"
+    },
+    {
+      "id": "iclo-spine-neurological-safety-crisis-2026",
+      "name": "Neurological Safety and Crisis Management in Spine Surgery",
+      "eventType": "Course-Workshop",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-18",
+      "country": "Italy",
+      "subspecialty": "Spine surgery",
+      "location": "ICLO Teaching and Research Center, Verona, Italy",
+      "sourceName": "ICLO Teaching and Research Center (Verona)",
+      "sourceCategory": "Course company",
+      "sourceWebsite": "https://www.iclo.eu/corsi/sicurezza-neurologica-gestione-della-crisi-in-chirurgia-vertebrale/",
+      "notes": "Original title: Sicurezza Neurologica & Gestione della Crisi in Chirurgia Vertebrale. Chairmen: Giovanni Barbanti Brodano (scientific coordinator, IRCCS Istituto Ortopedico Rizzoli, Bologna) and Marco Brayda-Bruno. Intraoperative neuromonitoring and alarms, rescue protocol, neurological complications, crisis resource management; high-fidelity simulation plus three pre-course e-learning lectures. For orthopaedic and neurosurgeons, anaesthetists, neurophysiology technicians and neurologists. In Italian. Fee €122 (VAT included)."
+    },
+    {
+      "id": "linnc-americas-2027-miami",
+      "name": "LINNC Seminar 2027 – Americas Edition",
+      "eventType": "Conference",
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-27",
+      "country": "United States",
+      "subspecialty": "Interventional Neuroradiology & Stroke",
+      "location": "Miami, FL, USA",
+      "sourceName": "LINNC (Live Interventional NeuroRadiology & NeuroSurgery Course)",
+      "sourceCategory": "Course company",
+      "sourceWebsite": "https://www.linnc.com/Course-information/LINNC-Seminar-2027-Americas-Edition",
+      "notes": "Two-day seminar on complex neurointerventional cases; venue not stated. Registration, call for cases and grants for young practitioners on the course page."
+    },
+    {
+      "id": "esmint-2027-marseille",
+      "name": "19th ESMINT Congress 2027 (European Society of Minimally Invasive Neurological Therapy)",
+      "eventType": "Conference",
+      "startDate": "2027-09-08",
+      "endDate": "2027-09-10",
+      "country": "France",
+      "subspecialty": "Interventional Neuroradiology & Stroke",
+      "location": "Palais du Pharo Congress Center, Marseille, France",
+      "sourceName": "LINNC (Live Interventional NeuroRadiology & NeuroSurgery Course)",
+      "sourceCategory": "Course company",
+      "sourceWebsite": "https://www.esmint.eu/congress/",
+      "notes": "Organiser: ESMINT (not in the source list); listed on the LINNC congresses page. For neuroradiologists, neurosurgeons and neurologists working in neurointervention."
     }
   ]
 }

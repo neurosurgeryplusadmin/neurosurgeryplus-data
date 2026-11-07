@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-07T21:06:55.198Z",
+  "updatedAt": "2026-11-07T21:31:04.291Z",
   "events": [
     {
       "id": "wfns-2027-world-congress",
@@ -4487,6 +4487,20 @@
       "sourceCategory": "Hospital",
       "sourceWebsite": "https://www.barrowneuro.org/patient-care/support-resources/education-seminars/annual-spetzler-microneurosurgery-course/",
       "notes": "Course director: Michael T. Lawton; special guest: Robert F. Spetzler. Two-day course for neurosurgery residents and fellows (60 participants): anterior cranial and skull base approaches (pterional, orbitozygomatic, transcavernous, Kawase, far lateral, CP angle) with cerebrovascular and tumour clinical correlation; dissection on preserved, vascular-injected cadaver specimens with image guidance. Fees: residents and fellows $400, non-trainees $2,500; no refunds. Contact: CME@barrowneuro.org."
+    },
+    {
+      "id": "chum-symposium-du-rachis-2026",
+      "name": "13th CHUM Spine Symposium (Symposium du rachis)",
+      "eventType": "Conference",
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-20",
+      "country": "Canada",
+      "subspecialty": "Spine surgery",
+      "location": "Amphithéâtre Pierre-Péladeau, CHUM, Montréal, QC, Canada",
+      "sourceName": "Centre hospitalier de l'Université de Montréal (CHUM)",
+      "sourceCategory": "Hospital",
+      "sourceWebsite": "https://www.eventbrite.ca/e/billets-symposium-du-rachis-1995464189106",
+      "notes": "Original title: Symposium du rachis (13e édition). 7:30–16:05; in person, free of charge; in French. Update on the medical and surgical treatment of lumbosacral spine disorders, for all health professionals interested in spine disease (also open to carers, patients and families). Organiser: Service événementiel du CHUM; listed on https://www.chumontreal.qc.ca/evenements"
     }
   ]
 }

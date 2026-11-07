@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-07T16:17:50.757Z",
+  "updatedAt": "2026-11-07T16:29:13.329Z",
   "events": [
     {
       "id": "wfns-2027-world-congress",
@@ -4383,6 +4383,20 @@
       "sourceCategory": "Subspecialty",
       "sourceWebsite": "https://www.jsn-o.com/event/01.html",
       "notes": "President: Koji Yoshimoto (Department of Neurosurgery, Kyushu University). Listed as planned on the JSNO \"future meetings\" page; meeting website not yet online."
+    },
+    {
+      "id": "utsw-gamma-knife-clinical-introduction-2027-12",
+      "name": "Clinical Introduction to Leksell Gamma Knife Radiosurgery (UT Southwestern)",
+      "eventType": "Course-Workshop",
+      "startDate": "2027-12-06",
+      "endDate": "2027-12-09",
+      "country": "United States",
+      "subspecialty": "Radiosurgery",
+      "location": "UT Southwestern Medical Center, Dallas, TX, USA (in person or virtual)",
+      "sourceName": "UT Southwestern Medical Center",
+      "sourceCategory": "Hospital",
+      "sourceWebsite": "https://www.utsouthwestern.edu/departments/radiation-oncology/education-training/continued-education/gammaknife/",
+      "notes": "Four-day course for new Gamma Knife users; hybrid (in person, or virtual with Zoom lectures and live-streamed patient observation). For radiation oncologists, neurosurgeons, neuro-otologists and medical physicists. No fee when covered by Elekta contract education credits. 2027 date from the UT Southwestern course page."
     }
   ]
 }

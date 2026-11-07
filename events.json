@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-07T11:17:13.599Z",
+  "updatedAt": "2026-11-07T11:22:35.879Z",
   "events": [
     {
       "id": "wfns-2027-world-congress",
@@ -3598,6 +3598,118 @@
       "sourceCategory": "Subspecialty",
       "sourceWebsite": "https://cogno.org/asm/",
       "notes": "Cooperative Trials Group for Neuro-Oncology annual meeting, marking 20 years of COGNO: clinical trials, translational research and supportive care in neuro-oncology. Venue not stated yet. COGNO now uses cogno.org (the old cogno.org.au site is out of date)."
+    },
+    {
+      "id": "skullbasecon-2026-hyderabad",
+      "name": "SKULLBASECON 2026 – Annual Conference of the Skull Base Surgery Society of India",
+      "eventType": "Conference",
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-14",
+      "country": "India",
+      "subspecialty": "Skull base surgery",
+      "location": "Shamshabad, Hyderabad (near Rajiv Gandhi International Airport), Telangana, India",
+      "sourceName": "Skull Base Surgery Society of India",
+      "sourceCategory": "Subspecialty",
+      "sourceWebsite": "https://events.docthub.com/skullbasecon-2026-E1735",
+      "notes": "Theme: \"Unified Skull Base\". Added at Fabio's request from an aggregator listing (Docthub, marked \"Aggregated event\"): the society has no official website and no official page was found. The listing says venue, programme and registration details are still to be announced, and shows registration as closed."
+    },
+    {
+      "id": "dwg-basiskurs-modul-1-6-2026",
+      "name": "DWG Basic Course – Modules 1–6 (online)",
+      "eventType": "Webinar",
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-27",
+      "country": "Germany",
+      "subspecialty": "Spine surgery",
+      "location": "Online",
+      "sourceName": "German Spine Society (DWG)",
+      "sourceCategory": "Subspecialty",
+      "sourceWebsite": "https://www.akademie-der-dwg.de/index.php?id=10665",
+      "notes": "Original title: Basiskurs der Akademie der DWG gGmbH – Modul 1–6 (digital). E-learning with tests is required for modules 1–6. DWG certification course run by the Akademie der DWG gGmbH; each part is booked separately (registration open; payment by credit card or iDeal at registration). Language German. Contact: jessica.grimm@conventus.de."
+    },
+    {
+      "id": "dwg-basiskurs-praxismodul-1-2027",
+      "name": "DWG Basic Course – Practical Module (Basiskurs Praxis Modul), Hamburg",
+      "eventType": "Course-Workshop",
+      "startDate": "2027-03-16",
+      "endDate": "2027-03-17",
+      "country": "Germany",
+      "subspecialty": "Spine surgery",
+      "location": "Hamburg, Germany",
+      "sourceName": "German Spine Society (DWG)",
+      "sourceCategory": "Subspecialty",
+      "sourceWebsite": "https://www.akademie-der-dwg.de/index.php?id=10665",
+      "notes": "Original title: Basiskurs der Akademie der DWG gGmbH – Praxis Modul. Venue not stated yet (details are sent to registered participants). DWG certification course run by the Akademie der DWG gGmbH; each part is booked separately (registration open; payment by credit card or iDeal at registration). Language German. Contact: jessica.grimm@conventus.de."
+    },
+    {
+      "id": "dwg-basiskurs-praxismodul-2-2027",
+      "name": "DWG Basic Course – Practical Module (Basiskurs Praxis Modul), Hamburg",
+      "eventType": "Course-Workshop",
+      "startDate": "2027-03-17",
+      "endDate": "2027-03-18",
+      "country": "Germany",
+      "subspecialty": "Spine surgery",
+      "location": "Hamburg, Germany",
+      "sourceName": "German Spine Society (DWG)",
+      "sourceCategory": "Subspecialty",
+      "sourceWebsite": "https://www.akademie-der-dwg.de/index.php?id=10665",
+      "notes": "Original title: Basiskurs der Akademie der DWG gGmbH – Praxis Modul. Venue not stated yet (details are sent to registered participants). DWG certification course run by the Akademie der DWG gGmbH; each part is booked separately (registration open; payment by credit card or iDeal at registration). Language German. Contact: jessica.grimm@conventus.de."
+    },
+    {
+      "id": "dwg-basiskurs-praxismodul-3-2027",
+      "name": "DWG Basic Course – Practical Module (Basiskurs Praxis Modul), Berlin",
+      "eventType": "Course-Workshop",
+      "startDate": "2027-05-04",
+      "endDate": "2027-05-05",
+      "country": "Germany",
+      "subspecialty": "Spine surgery",
+      "location": "Berlin, Germany",
+      "sourceName": "German Spine Society (DWG)",
+      "sourceCategory": "Subspecialty",
+      "sourceWebsite": "https://www.akademie-der-dwg.de/index.php?id=10665",
+      "notes": "Original title: Basiskurs der Akademie der DWG gGmbH – Praxis Modul. Venue not stated yet (details are sent to registered participants). DWG certification course run by the Akademie der DWG gGmbH; each part is booked separately (registration open; payment by credit card or iDeal at registration). Language German. Contact: jessica.grimm@conventus.de."
+    },
+    {
+      "id": "dwg-basiskurs-praxismodul-4-2027",
+      "name": "DWG Basic Course – Practical Module (Basiskurs Praxis Modul), Berlin",
+      "eventType": "Course-Workshop",
+      "startDate": "2027-05-05",
+      "endDate": "2027-05-06",
+      "country": "Germany",
+      "subspecialty": "Spine surgery",
+      "location": "Berlin, Germany",
+      "sourceName": "German Spine Society (DWG)",
+      "sourceCategory": "Subspecialty",
+      "sourceWebsite": "https://www.akademie-der-dwg.de/index.php?id=10665",
+      "notes": "Original title: Basiskurs der Akademie der DWG gGmbH – Praxis Modul. Venue not stated yet (details are sent to registered participants). DWG certification course run by the Akademie der DWG gGmbH; each part is booked separately (registration open; payment by credit card or iDeal at registration). Language German. Contact: jessica.grimm@conventus.de."
+    },
+    {
+      "id": "dwg-basiskurs-praxismodul-5-2027",
+      "name": "DWG Basic Course – Practical Module (Basiskurs Praxis Modul), Frankfurt am Main",
+      "eventType": "Course-Workshop",
+      "startDate": "2027-06-30",
+      "endDate": "2027-07-01",
+      "country": "Germany",
+      "subspecialty": "Spine surgery",
+      "location": "Frankfurt am Main, Germany",
+      "sourceName": "German Spine Society (DWG)",
+      "sourceCategory": "Subspecialty",
+      "sourceWebsite": "https://www.akademie-der-dwg.de/index.php?id=10665",
+      "notes": "Original title: Basiskurs der Akademie der DWG gGmbH – Praxis Modul. Venue not stated yet (details are sent to registered participants). DWG certification course run by the Akademie der DWG gGmbH; each part is booked separately (registration open; payment by credit card or iDeal at registration). Language German. Contact: jessica.grimm@conventus.de."
+    },
+    {
+      "id": "dwg-basiskurs-praxismodul-6-2027",
+      "name": "DWG Basic Course – Practical Module (Basiskurs Praxis Modul), Frankfurt am Main",
+      "eventType": "Course-Workshop",
+      "startDate": "2027-07-01",
+      "endDate": "2027-07-02",
+      "country": "Germany",
+      "subspecialty": "Spine surgery",
+      "location": "Frankfurt am Main, Germany",
+      "sourceName": "German Spine Society (DWG)",
+      "sourceCategory": "Subspecialty",
+      "sourceWebsite": "https://www.akademie-der-dwg.de/index.php?id=10665",
+      "notes": "Original title: Basiskurs der Akademie der DWG gGmbH – Praxis Modul. Venue not stated yet (details are sent to registered participants). DWG certification course run by the Akademie der DWG gGmbH; each part is booked separately (registration open; payment by credit card or iDeal at registration). Language German. Contact: jessica.grimm@conventus.de."
     }
   ]
 }

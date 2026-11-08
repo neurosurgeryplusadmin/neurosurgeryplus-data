@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-08T20:26:21.198Z",
+  "updatedAt": "2026-11-08T20:29:15.648Z",
   "events": [
     {
       "id": "wfns-2027-world-congress",
@@ -1300,7 +1300,7 @@
       "location": "National Hospital for Neurology and Neurosurgery, London, UK",
       "sourceName": "Queen Square Simulation Centre (London)",
       "sourceCategory": "Course company",
-      "sourceWebsite": "https://www.qssimulationcentre.com/coursecal",
+      "sourceWebsite": "https://www.qssimulationcentre.com/coursecal/functional-neurosurgery-course-2",
       "notes": "Two-day course on deep brain stimulation and stereotactic lesioning (anatomy, patient selection, targeting, surgery, programming, follow-up). Also listed on the SBNS events page (a duplicate SBNS entry was merged into this one on 2026-11-07)."
     },
     {
@@ -2927,7 +2927,7 @@
       "location": "National Hospital for Neurology and Neurosurgery (Queen Square Simulation Centre), London, UK",
       "sourceName": "Queen Square Simulation Centre (London)",
       "sourceCategory": "Course company",
-      "sourceWebsite": "https://www.qssimulationcentre.com/coursecal",
+      "sourceWebsite": "https://www.qssimulationcentre.com/coursecal/lateral-skull-base-approaches-course-1",
       "notes": "One-day simulation course on the three core lateral skull base approaches using high-fidelity models, for neurosurgical and ENT trainees. 8:15–17:00 (SBNS listing). Listed on the SBNS events page."
     },
     {
@@ -3124,7 +3124,7 @@
       "location": "ULC Wolfson Centre, 43 Mecklenburgh Square, London WC1N 2AJ, UK",
       "sourceName": "Queen Square Simulation Centre (London)",
       "sourceCategory": "Course company",
-      "sourceWebsite": "https://www.qssimulationcentre.com/coursecal",
+      "sourceWebsite": "https://www.qssimulationcentre.com/coursecal/avm-convergence-multimodal-management-of-cerebral-arteriovenous-malformations",
       "notes": "One-day course: surgery, embolisation and radiotherapy for complex brain AVMs; lectures, hands-on workshops, case discussion. Listed on the SBNS events page."
     },
     {

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-08T14:10:36.213Z",
+  "updatedAt": "2026-11-08T14:13:41.481Z",
   "events": [
     {
       "id": "wfns-2027-world-congress",
@@ -5464,7 +5464,7 @@
       "endDate": "2027-10-24",
       "country": "Italy",
       "subspecialty": "Skull base surgery",
-      "location": "Modules: 19–21 Mar (medial subfrontal), 2–4 Jul (transcranial), 22–24 Oct 2027 (orbital) · ICLO Teaching and Research Center, Verona, Italy",
+      "location": "Modules: 19–21 Mar, 2–4 Jul, 22–24 Oct 2027 · ICLO Teaching and Research Center, Verona, Italy",
       "sourceName": "ICLO Teaching and Research Center (Verona)",
       "sourceCategory": "Course company",
       "sourceWebsite": "https://www.iclo.eu/",

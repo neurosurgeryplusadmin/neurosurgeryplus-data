@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-08T14:06:54.220Z",
+  "updatedAt": "2026-11-08T14:10:36.213Z",
   "events": [
     {
       "id": "wfns-2027-world-congress",
@@ -5457,46 +5457,18 @@
       "notes": "Swiss Society of Neurosurgery NeuroSpine meeting; date and city only so far."
     },
     {
-      "id": "iclo-master-anterolateral-skull-base-2027-module-1",
-      "name": "Hands-on Surgical Approaches to the Anterolateral Skull Base – 10th Second-Level Master 2026–2027 (University of Verona) – Module 1: Medial Subfrontal Approaches",
+      "id": "iclo-master-anterolateral-skull-base-2027",
+      "name": "Hands-on surgical approaches to the anterolateral skull base: Medial subfrontal, Transcranial, Orbital approaches",
       "eventType": "Cadaver-dissection lab",
       "startDate": "2027-03-19",
-      "endDate": "2027-03-21",
-      "country": "Italy",
-      "subspecialty": "Skull base surgery",
-      "location": "ICLO Teaching and Research Center, Verona, Italy",
-      "sourceName": "ICLO Teaching and Research Center (Verona)",
-      "sourceCategory": "Course company",
-      "sourceWebsite": "https://www.iclo.eu/",
-      "notes": "Module 1 of 3 (Medial Subfrontal Approaches); module director: Luigi Cavallo (Naples). Second-level master of the University of Verona (10th edition) at ICLO, under the patronage of EANS, the Italian Skull Base Society (SIB) and the Italian Society of Neurosurgery (SINch): three 3-day hands-on modules (cadaver dissection, live surgery, workshops, lessons), microscopic to endoscopic. Price 4,000 € for the whole master. For neurosurgeons, maxillofacial surgeons and ENT surgeons. Course directors: Antonio D'Agostino, Andrea Talacchi. Applications open from 1 December 2026 at www.univr.it (post-lauream – master)."
-    },
-    {
-      "id": "iclo-master-anterolateral-skull-base-2027-module-2",
-      "name": "Hands-on Surgical Approaches to the Anterolateral Skull Base – 10th Second-Level Master 2026–2027 (University of Verona) – Module 2: Transcranial Approaches",
-      "eventType": "Cadaver-dissection lab",
-      "startDate": "2027-07-02",
-      "endDate": "2027-07-04",
-      "country": "Italy",
-      "subspecialty": "Skull base surgery",
-      "location": "ICLO Teaching and Research Center, Verona, Italy",
-      "sourceName": "ICLO Teaching and Research Center (Verona)",
-      "sourceCategory": "Course company",
-      "sourceWebsite": "https://www.iclo.eu/",
-      "notes": "Module 2 of 3 (Transcranial Approaches); module director: Antonio Bernardo (USA). Second-level master of the University of Verona (10th edition) at ICLO, under the patronage of EANS, the Italian Skull Base Society (SIB) and the Italian Society of Neurosurgery (SINch): three 3-day hands-on modules (cadaver dissection, live surgery, workshops, lessons), microscopic to endoscopic. Price 4,000 € for the whole master. For neurosurgeons, maxillofacial surgeons and ENT surgeons. Course directors: Antonio D'Agostino, Andrea Talacchi. Applications open from 1 December 2026 at www.univr.it (post-lauream – master)."
-    },
-    {
-      "id": "iclo-master-anterolateral-skull-base-2027-module-3",
-      "name": "Hands-on Surgical Approaches to the Anterolateral Skull Base – 10th Second-Level Master 2026–2027 (University of Verona) – Module 3: Orbital Surgery",
-      "eventType": "Cadaver-dissection lab",
-      "startDate": "2027-10-22",
       "endDate": "2027-10-24",
       "country": "Italy",
       "subspecialty": "Skull base surgery",
-      "location": "ICLO Teaching and Research Center, Verona, Italy",
+      "location": "Modules: 19–21 Mar (medial subfrontal), 2–4 Jul (transcranial), 22–24 Oct 2027 (orbital) · ICLO Teaching and Research Center, Verona, Italy",
       "sourceName": "ICLO Teaching and Research Center (Verona)",
       "sourceCategory": "Course company",
       "sourceWebsite": "https://www.iclo.eu/",
-      "notes": "Module 3 of 3 (Orbital Surgery); module director: Antonio D'Agostino (Verona). Second-level master of the University of Verona (10th edition) at ICLO, under the patronage of EANS, the Italian Skull Base Society (SIB) and the Italian Society of Neurosurgery (SINch): three 3-day hands-on modules (cadaver dissection, live surgery, workshops, lessons), microscopic to endoscopic. Price 4,000 € for the whole master. For neurosurgeons, maxillofacial surgeons and ENT surgeons. Course directors: Antonio D'Agostino, Andrea Talacchi. Applications open from 1 December 2026 at www.univr.it (post-lauream – master)."
+      "notes": "10th second-level master of the University of Verona (2026–2027) at ICLO, under the patronage of EANS, the Italian Skull Base Society (SIB) and the Italian Society of Neurosurgery (SINch). Three 3-day hands-on modules (cadaver dissection, live surgery, workshops, lessons), microscopic to endoscopic: medial subfrontal approaches 19–21 Mar 2027 (module director Luigi Cavallo), transcranial approaches 2–4 Jul 2027 (Antonio Bernardo), orbital surgery 22–24 Oct 2027 (Antonio D'Agostino). Price 4,000 € for the whole master. For neurosurgeons, maxillofacial surgeons and ENT surgeons. Course directors: Antonio D'Agostino, Andrea Talacchi. Applications open from 1 December 2026 at www.univr.it (post-lauream – master)."
     }
   ]
 }

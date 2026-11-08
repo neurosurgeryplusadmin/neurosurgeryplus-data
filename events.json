@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-08T19:23:50.274Z",
+  "updatedAt": "2026-11-08T20:26:21.198Z",
   "events": [
     {
       "id": "wfns-2027-world-congress",
@@ -1298,8 +1298,8 @@
       "country": "United Kingdom",
       "subspecialty": "Functional/movement disorders",
       "location": "National Hospital for Neurology and Neurosurgery, London, UK",
-      "sourceName": "National Hospital for Neurology & Neurosurgery, Queen Square (UCLH)",
-      "sourceCategory": "Hospital",
+      "sourceName": "Queen Square Simulation Centre (London)",
+      "sourceCategory": "Course company",
       "sourceWebsite": "https://www.qssimulationcentre.com/coursecal",
       "notes": "Two-day course on deep brain stimulation and stereotactic lesioning (anatomy, patient selection, targeting, surgery, programming, follow-up). Also listed on the SBNS events page (a duplicate SBNS entry was merged into this one on 2026-11-07)."
     },
@@ -2925,8 +2925,8 @@
       "country": "United Kingdom",
       "subspecialty": "Skull base surgery",
       "location": "National Hospital for Neurology and Neurosurgery (Queen Square Simulation Centre), London, UK",
-      "sourceName": "National Hospital for Neurology & Neurosurgery, Queen Square (UCLH)",
-      "sourceCategory": "Hospital",
+      "sourceName": "Queen Square Simulation Centre (London)",
+      "sourceCategory": "Course company",
       "sourceWebsite": "https://www.qssimulationcentre.com/coursecal",
       "notes": "One-day simulation course on the three core lateral skull base approaches using high-fidelity models, for neurosurgical and ENT trainees. 8:15–17:00 (SBNS listing). Listed on the SBNS events page."
     },
@@ -3122,8 +3122,8 @@
       "country": "United Kingdom",
       "subspecialty": "Vascular neurosurgery, Radiosurgery",
       "location": "ULC Wolfson Centre, 43 Mecklenburgh Square, London WC1N 2AJ, UK",
-      "sourceName": "National Hospital for Neurology & Neurosurgery, Queen Square (UCLH)",
-      "sourceCategory": "Hospital",
+      "sourceName": "Queen Square Simulation Centre (London)",
+      "sourceCategory": "Course company",
       "sourceWebsite": "https://www.qssimulationcentre.com/coursecal",
       "notes": "One-day course: surgery, embolisation and radiotherapy for complex brain AVMs; lectures, hands-on workshops, case discussion. Listed on the SBNS events page."
     },
@@ -3361,8 +3361,8 @@
       "country": "United Kingdom",
       "subspecialty": "Skull base surgery",
       "location": "Day 1: Science Museum (iMax), Exhibition Rd, London SW7 2DD; Days 2–3: National Hospital for Neurology and Neurosurgery, Queen Square, London WC1N 3BG, UK",
-      "sourceName": "National Hospital for Neurology & Neurosurgery, Queen Square (UCLH)",
-      "sourceCategory": "Hospital",
+      "sourceName": "Queen Square Simulation Centre (London)",
+      "sourceCategory": "Course company",
       "sourceWebsite": "https://queensquareskullbasemasterclass.com/",
       "notes": "Three days: operative technique, anatomy in focus, evidence/controversies/innovation, with 3D anatomy and operative video. Listed on the SBNS events page."
     },
@@ -7135,6 +7135,20 @@
       "sourceCategory": "National",
       "sourceWebsite": "https://microvascular-athens.eu/",
       "notes": "Organised by the Hellenic Neurosurgical Society (ENXE) with the Department of Neurosurgery, Hygeia Hospital, Athens, and the Department of Neurosurgery, University of Vienna. Course director: Alexandros Andreou. One-week hands-on programme: 2 days of basic techniques on in vitro and cadaveric specimens, then 3 days of advanced in vivo training on anaesthetized rats (artery, vein and nerve dissection; end-to-end, end-to-side and side-to-side anastomoses; nerve coaptation), with keynote lectures. For all young neurosurgeons, not only those planning to practise vascular neurosurgery. Fee to be announced (it will cover the workshop and the social programme); registration through the Application page (https://microvascular-athens.eu/?page_id=20). Secretariat: vsotiriou@hygeia.gr"
+    },
+    {
+      "id": "qs-neurosurgery-consultant-interview-masterclass-2027",
+      "name": "Neurosurgery Consultant Interview Masterclass",
+      "eventType": "Course-Workshop",
+      "startDate": "2027-02-10",
+      "endDate": "2027-02-10",
+      "country": "United Kingdom",
+      "subspecialty": null,
+      "location": "UCL Wolfson Centre, 43 Mecklenburgh Square, London WC1N 2AJ, UK",
+      "sourceName": "Queen Square Simulation Centre (London)",
+      "sourceCategory": "Course company",
+      "sourceWebsite": "https://www.qssimulationcentre.com/coursecal/neurosurgery-consultant-interview-masterclass",
+      "notes": "Full-day course (08:00–16:30) to prepare for neurosurgery consultant interviews. Morning: what interview panels look for (perspectives of a Clinical Director, a General Manager and an AAC / Royal College assessor), interview performance under pressure, lessons from newly appointed consultants; lunchtime CV and portfolio clinic. Afternoon: small-group practice, with two mini-interviews and presentation practice for each candidate. Limited to 20 participants. For late-stage residents and early-stage attendings/consultants. Course director: Ms Mary Murphy; course lead: Ms Maria Del Mar Yacaman; organiser: Mr Joachim Starup-Hansen. Fees: £225 external, £125 internal NHNN (coffee, lunch and refreshments included; certificate of attendance). Cancellation: full refund more than 14 days before the course, no refund after."
     }
   ]
 }

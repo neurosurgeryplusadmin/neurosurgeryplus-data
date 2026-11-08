@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-08T17:42:46.929Z",
+  "updatedAt": "2026-11-08T19:23:50.274Z",
   "events": [
     {
       "id": "wfns-2027-world-congress",
@@ -7121,6 +7121,20 @@
       "sourceCategory": "International",
       "sourceWebsite": "https://eduevents.aofoundation.org/evt/s/evt-event/a1oTG00000L12el",
       "notes": "AO Spine event, advanced level, wet lab; in English. Chairs: Graham Ka Hon Shea."
+    },
+    {
+      "id": "enxe-athens-microvascular-workshop-2026",
+      "name": "Athens Microvascular Hands-on Workshop",
+      "eventType": "Course-Workshop",
+      "startDate": "2026-11-30",
+      "endDate": "2026-12-04",
+      "country": "Greece",
+      "subspecialty": "Vascular neurosurgery",
+      "location": "ELPEN Laboratories, Athens, Greece",
+      "sourceName": "Hellenic Neurosurgical Society (ΕΝΧΕ)",
+      "sourceCategory": "National",
+      "sourceWebsite": "https://microvascular-athens.eu/",
+      "notes": "Organised by the Hellenic Neurosurgical Society (ENXE) with the Department of Neurosurgery, Hygeia Hospital, Athens, and the Department of Neurosurgery, University of Vienna. Course director: Alexandros Andreou. One-week hands-on programme: 2 days of basic techniques on in vitro and cadaveric specimens, then 3 days of advanced in vivo training on anaesthetized rats (artery, vein and nerve dissection; end-to-end, end-to-side and side-to-side anastomoses; nerve coaptation), with keynote lectures. For all young neurosurgeons, not only those planning to practise vascular neurosurgery. Fee to be announced (it will cover the workshop and the social programme); registration through the Application page (https://microvascular-athens.eu/?page_id=20). Secretariat: vsotiriou@hygeia.gr"
     }
   ]
 }

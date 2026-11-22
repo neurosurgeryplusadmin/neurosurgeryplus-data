@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-08T20:29:15.648Z",
+  "updatedAt": "2026-11-22T23:13:43.657Z",
   "events": [
     {
       "id": "wfns-2027-world-congress",
@@ -7149,6 +7149,20 @@
       "sourceCategory": "Course company",
       "sourceWebsite": "https://www.qssimulationcentre.com/coursecal/neurosurgery-consultant-interview-masterclass",
       "notes": "Full-day course (08:00–16:30) to prepare for neurosurgery consultant interviews. Morning: what interview panels look for (perspectives of a Clinical Director, a General Manager and an AAC / Royal College assessor), interview performance under pressure, lessons from newly appointed consultants; lunchtime CV and portfolio clinic. Afternoon: small-group practice, with two mini-interviews and presentation practice for each candidate. Limited to 20 participants. For late-stage residents and early-stage attendings/consultants. Course director: Ms Mary Murphy; course lead: Ms Maria Del Mar Yacaman; organiser: Mr Joachim Starup-Hansen. Fees: £225 external, £125 internal NHNN (coffee, lunch and refreshments included; certificate of attendance). Cancellation: full refund more than 14 days before the course, no refund after."
+    },
+    {
+      "id": "fen-sapporo-live-microneurosurgery-course-2027",
+      "name": "11th FEN Sapporo Live Microneurosurgery Course 2027",
+      "eventType": "Course-Workshop",
+      "startDate": "2027-07-03",
+      "endDate": "2027-07-08",
+      "country": "Japan",
+      "subspecialty": "Vascular neurosurgery, Skull base surgery",
+      "location": "Sapporo Teishinkai Hospital, Sapporo",
+      "sourceName": "Far East Neurosurgical Institute (FEN) & Sapporo Teishinkai Hospital (Sapporo)",
+      "sourceCategory": "Course company",
+      "sourceWebsite": "https://fenneurosurgery.com/",
+      "notes": "Also called the 11th Far East Neurosurgical Live Microsurgery Course. 3 Jul bypass hands-on seminar (optional, extra fee), 4 Jul lectures, 5–8 Jul live surgery and case reviews. Course fee JPY 220,000, max 120 participants."
     }
   ]
 }
